@@ -1,2 +1,2 @@
 ## Empty
-For now, this repository is empty or nearly empty, thx bai
+For now, this repository is nearly empty and useless, thx bai
